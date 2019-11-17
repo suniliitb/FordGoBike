@@ -1,6 +1,5 @@
 # FordGoBike - Data Science Approach
 
-
 Ford GoBike introduced Bike sharing services in 2013. It serves in San Francisco, the East Bay and San Jose.
 
 Ford GoBike consists of a fleet of bikes that can be unlocked in one station and returned in any other network station. Thus, this is ideal for one-way trips. These bikes are available for use thorughout the year and riders have access to all bikes in the network.
